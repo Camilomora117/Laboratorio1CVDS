@@ -31,5 +31,8 @@ while life:
 
 # Resultados de branching
 
-![](captura1.png)
-![](captura1.png)
+
+![](captura1.PNG)
+
+
+![](captura2.PNG)
