@@ -38,6 +38,6 @@ c = "veggeto"
 
 ## Curso de git 
 
-![](Captura1.png)
+![](Captura1.jpeg)
 
-![](Captura2.png)
+![](Captura2.jpeg)
