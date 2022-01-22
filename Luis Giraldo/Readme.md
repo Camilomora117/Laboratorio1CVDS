@@ -28,3 +28,8 @@ life.meaning = something
 while life:
 	life.meaning = none
 ```
+
+# Resultados de branching
+
+![](captura1.png)
+![](captura1.png)
